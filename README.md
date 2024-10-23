@@ -10,8 +10,8 @@
 
  <table align="center" width="100%" height="100%" >
     <tr>
-     <td><img src="https://github-readme-stats.vercel.app/api?username=Ngleanthu&show_icons=true&theme=light" alt="Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ngleanthu&theme=github" alt="AnhThu's GitHub Stats"/></td>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=Ngleanthu&show_icons=true&theme=radical" alt="Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ngleanthu&theme=radical" alt="AnhThu's GitHub Stats"/></td>
     </tr>
  </table>
 </div>
