@@ -2,7 +2,19 @@
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied [Software Engineer] at the University of Science, Ho Chi Minh city<br/>
 
-![](https://github-readme-stats.vercel.app/api?username=Ngleanthu&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+ <table align="center" width="100%" height="100%" >
+    <tr>
+    </tr>
+ </table>
+
+ <table align="center" width="100%" height="100%" >
+    <tr>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=Ngleanthu&show_icons=true&theme=light" alt="Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ngleanthu&theme=github" alt="AnhThu's GitHub Stats"/></td>
+    </tr>
+ </table>
+</div>
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
