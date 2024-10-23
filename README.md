@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ngleanthu!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
-👩🏻‍🎓 Studied [Software Engineer] at the University of Science, Ho Chi Minh city<br/>
+👩🏻‍🎓 Studying [Software Engineering] at the University of Science, Ho Chi Minh city<br/>
 
 <div align="center">
  <table align="center" width="100%" height="100%" >
